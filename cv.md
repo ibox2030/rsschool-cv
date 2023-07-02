@@ -2,7 +2,7 @@
 
 * **tel.:** +7 920 466 97 72
 * **e-mail:** kuryanov.aleksey@yandex.ru
-* **website:** [akuryanov.ru](akuryanov.ru) 
+* **website:** [akuryanov.ru](http://akuryanov.ru "website in development") 
 * **address:** 394000, Voronezh, on demand
 
 #### about me:
